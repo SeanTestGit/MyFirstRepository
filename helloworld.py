@@ -1,1 +1,1 @@
-print("Hello Universe!")
+print("Welcome to CAMP QMIND!!")
